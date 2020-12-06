@@ -2,6 +2,8 @@
 
 Site Criado para estudo de ReactJs.
 
+[Veja o projeto rodando](https://website-react.claytoncampos.vercel.app/)
+
 #### Para rodar o Projeto:
 
 ##### `yarn install`
@@ -10,9 +12,6 @@ Site Criado para estudo de ReactJs.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-[Crédito Brian Design](https://www.codavilla.com/posts/i-built-a-website-in-10-minutes-using-html-and-css)
-<small>Feito através de videos aulas</small>
 **_preview_**
 <img src="./preview.png">
 
@@ -22,3 +21,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - react-router-dom
 - react-icons
 - react-scroll
+
+---
+
+###### Feito através de video aulas
+
+[Tutorial Brian Design](https://www.codavilla.com/posts/i-built-a-website-in-10-minutes-using-html-and-css)
